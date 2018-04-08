@@ -6,6 +6,7 @@
 using namespace std;
 
 int chrtoint(char a){
+	printf("test jenkins\n");
   int asc = (int)a;
   int i;
   string symbol = ",.;?!()";
